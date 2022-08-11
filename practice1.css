@@ -1,0 +1,13 @@
+div{
+    
+    width: 100%;
+    height: 250px;
+    padding: 16px;
+    margin: auto;
+    border-width:1px;
+    border-style: solid;
+    border-color:green;
+    color: beige;
+    background-image: linear-gradient(rgb(231, 164, 39),white,rgb(47, 223, 47));
+    text-align: center;
+}
